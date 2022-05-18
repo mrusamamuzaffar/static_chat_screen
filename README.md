@@ -2,4 +2,4 @@
 
 This is demo chat screen. You can add message to the sender side by simply pressing the send button and to add message to the receiver side, you have to long press the same send button.
 
-![chat_ui](https://user-images.githubusercontent.com/101565812/169024696-e781c6fd-2467-42ac-9d0f-1fc7b3aa3f2c.jpg)
+<img src="https://user-images.githubusercontent.com/101565812/169024696-e781c6fd-2467-42ac-9d0f-1fc7b3aa3f2c.jpg" width=40%>
